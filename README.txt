@@ -19,4 +19,8 @@ This change needs to be deleted!
 This change-1 should go into a branch!
 c-1
 c-2
+<<<<<<< HEAD
 c-6
+=======
+c-3
+>>>>>>> b2
