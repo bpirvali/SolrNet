@@ -15,3 +15,4 @@ If you use SolrNet with the Windsor integration, you'll need Windsor binaries in
 and so on.
 
 The "unmerged" directory in the release package contains the unmerged assemblies in case you want more control.
+This change needs to be deleted!
