@@ -2,7 +2,7 @@ SolrNet 0.4.0
 Solr client for .NET
 http://code.google.com/p/solrnet/
 
-This release is built against:
+This release is built against: c-5
 Castle Windsor 3.0.0.2230
 Ninject 2.2.1.0
 StructureMap 2.6.2
