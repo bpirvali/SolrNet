@@ -1,7 +1,7 @@
 SolrNet 0.4.0
 Solr client for .NET
 http://code.google.com/p/solrnet/
-
+change, i want!
 This release is built against: c-5
 Castle Windsor 3.0.0.2230
 Ninject 2.2.1.0
@@ -19,3 +19,4 @@ This change needs to be deleted!
 This change-1 should go into a branch!
 c-1
 c-2
+c-6
